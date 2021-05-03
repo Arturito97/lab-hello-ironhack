@@ -1,0 +1,62 @@
+div {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.ironhack-logo{
+    position: absolute;
+    padding-left: 50px;
+    top: 20px;
+}
+
+.menu-top {
+    position: absolute;
+    padding-left: 600px;
+    top: 20px;
+}
+
+.react-logo {
+    position: relative;
+    height: 150px;
+    padding-left: 350px;
+    top: 50px;
+}
+
+.div-top {
+    position: relative;
+    bottom: 50px;
+    padding-left: 30px;
+    color: white;
+    width: 190px;
+}
+
+.top-menu {
+    background-color: teal;
+    width: 650px;
+}
+
+.bottom-menu {
+    display: flex;
+    font-size: 15px;
+    width: 600px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bottom-images{
+    height: 100px;
+}
+
+.p {
+    width: 250px;
+}
+
+.p2 {
+    color: black;
+    background-color: white;
+    border: 15px solid white;
+    width: 80px;
+}
+
+p{
+    width: 120px;
+}
